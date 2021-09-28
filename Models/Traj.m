@@ -1,5 +1,5 @@
 %{
-This function maps the trajectory of the 
+This function maps the trajectory of the composition as oxygen is removed
 %}
 
 function traj = Traj(comp_mass)
